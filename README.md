@@ -10,4 +10,3 @@ The dataset is sourced from PlantVillage and consists of images categorized into
 ->Potato Early Blight 
 ->Potato Late Blight 
 
-Contact me if u have any doubt :+91 93459 27272
