@@ -1,5 +1,5 @@
  PotatoDisease-Detection
-..
+.
  Dataset - https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
  Project uses deep learning to classify potato plant diseases from images. 
